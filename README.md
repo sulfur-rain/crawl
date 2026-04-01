@@ -1,7 +1,3 @@
-Dưới đây là mẫu nội dung cho file `README.md` dựa trên mã nguồn bạn đã cung cấp, mang thương hiệu của nhóm **Huỷ diệt Hako**.
-
-***
-
 # Hako Crawler Pro 
 **Được phát triển bởi nhóm: Huỷ diệt Hako**
 
