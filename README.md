@@ -1,4 +1,4 @@
-# Hako Crawler Pro 
+# Hako Crawler
 **Được phát triển bởi nhóm: Huỷ diệt Hako**
 
 Hako Crawler Pro là một công cụ cào (crawl) dữ liệu tự động mạnh mẽ dành riêng cho website Light Novel **docln.net (Hako)**. Công cụ này giúp bạn dễ dàng tải các bộ truyện yêu thích và tự động đóng gói chúng thành định dạng **EPUB** hoàn chỉnh để đọc offline trên điện thoại, máy tính bảng hoặc máy đọc sách.
